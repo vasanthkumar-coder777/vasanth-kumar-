@@ -1,4 +1,4 @@
-# vasanth-kumar
+# vasanth-kumar.C
 # 💫 About Me:
 :<br><br>🔭 I'm currently working on: my final-year project and a personal portfolio website<br>👯 I'm looking to collaborate on: beginner-friendly open-source web development projects<br>🤝 I'm looking for help with: data structures, algorithms, and system design<br>🌱 I'm currently learning: JavaScript, React, Python, and Git/GitHub<br>💬 Ask me about: HTML, CSS, JavaScript, and building a first project as a student<br>⚡ Fun fact: I turn coffee into code ☕
 
